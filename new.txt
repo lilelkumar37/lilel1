@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 create from master git branch s
+=======
+create from master git branch new
+>>>>>>> 412027a0e971da356aede1611096562eb21e5202
